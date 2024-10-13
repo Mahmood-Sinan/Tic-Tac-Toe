@@ -17,7 +17,7 @@ int main(){
       cin>>player;
       player=toupper(player);
       if(player!='X'&&player!='O'){
-         cout<<"Choose a valid move\n";
+         cout<<"Choose a valid move this is a demo\n";
       }
    }while(player!='X'&&player!='O');
    if (player=='X'){
