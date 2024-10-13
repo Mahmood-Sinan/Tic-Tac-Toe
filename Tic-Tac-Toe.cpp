@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream>//check
 #include <ctime>
 #include <cstdlib>
 using namespace std;
